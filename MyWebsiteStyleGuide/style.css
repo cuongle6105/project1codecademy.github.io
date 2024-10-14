@@ -1,0 +1,97 @@
+
+
+body {
+    margin: 0 10%;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.box {
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.colors {
+    border: 2px solid rgb(161, 160, 160);
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.box-color {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100%;
+}
+
+.cool-blue {
+    background-color: #2d5dcc;
+    color: white;
+}
+
+.pink {
+    background-color: #d9579d;
+}
+
+.mint-green {
+    background-color: #4fe0b0;
+}
+
+.beige {
+    background-color: #efd9ca;
+}
+
+.crimson {
+    background-color: #dc143c;
+}
+
+.coral {
+    background-color: #ff7f50;
+}
+
+.fonts {
+    border: 2px solid rgb(161, 160, 160);
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.box-font {
+    display: inline-block;
+    width: 45%;
+    margin: 0 auto;
+    font-size: 16px;
+}
+
+.fonts .label {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.source-code-pro {
+    font-family: "Source Code Pro", monospace;
+}
+
+.nunito-sans {
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.poppins {
+    font-family: Poppins, sans-serif;
+}
+
+.normal {
+    font-style: normal;
+}
+
+.normal {
+    font-style: italic;
+}
+
+.strong {
+    font-weight: 700;
+}
+
+.text-styles {
+    border: 2px solid rgb(161, 160, 160) ;
+    color: #466995;
+}

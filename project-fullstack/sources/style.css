@@ -1,0 +1,42 @@
+header h1 {
+    font-family: Helvertica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("./images/pattern.jpeg");
+}
+
+main .h3 {
+    font-family: Helvertica;
+    color: black;
+    font-weight: bold;
+    text-align: left;
+}
+
+main .title {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+main .brushes {
+    background-color: mediumspringgreen;
+}
+
+main .frames {
+    background-color: lightcoral;
+}
+
+main .paint {
+    background-color: skyblue;
+}
+
+main .money {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+    display: inline;
+    
+}
