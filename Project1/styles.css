@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: powderblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: rebeccapurple;
+}
+
+table {
+    border: 2px solid rgb(241, 95, 9);
+    width: 650px;
+    margin: 0 auto;
+}
+
+thead {
+    background-color: rgb(207, 245, 40);
+}
+
+td {
+    border-top: 1px solid rgb(241, 95, 9);
+}
+
+.code {
+    font-family: monospace;
+    background-color: rgb(236, 236, 179);
+
+}
